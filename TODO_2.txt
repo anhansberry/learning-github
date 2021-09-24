@@ -1,3 +1,5 @@
 In this file, add one question you have about git and/or GitHub.
 
 1. What is the benefit of using git and GitHub?
+
+The benefit of using git and GitHub is that it tracks your progress and versions of your code that allows for easy management and allows you to revert back to different versions.
